@@ -1,0 +1,4 @@
+# Ghostty
+
+https://ghostty.org
+
